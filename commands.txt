@@ -1,0 +1,1 @@
+-novid -console -noaafonts -nod3d9ex1 -nosync -threads 2 -high +mat_queue_mode 2 -freq 75 -refresh 75 +cl_lagcompensation 1 +cl_interpolate 1 +cl_interp_ratio 1 +cl_interp 0 +rate 128000 +cl_cmdrate 128 +cl_updaterate 128
